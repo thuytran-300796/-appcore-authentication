@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'appcore-authentication',
   template: `
     <p>
-      authentication works!
+      authentication works! (new)
     </p>
   `,
   styles: [
